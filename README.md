@@ -1,2 +1,0 @@
-# data_analysis_of_crime_unemployment_europe
-Data Analysis
